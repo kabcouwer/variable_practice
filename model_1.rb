@@ -9,3 +9,8 @@ dog_temperment = "neutral"
 number_of_dogs = 1
 mileage_walked_a_day = 2.5
 baths_a_year = 4
+
+#variables assigned to booleans
+is_loved = true
+is_potty_trained = true
+is_large = false
