@@ -14,3 +14,7 @@ baths_a_year = 4
 is_loved = true
 is_potty_trained = true
 is_large = false
+
+#variables assigned to arrays
+dog_sitters = ["Amy", "Sinead", "Sally", "Andrew"]
+treats = ["bully stick", "bone", "ice cube", "chicken", "pup cup"]
