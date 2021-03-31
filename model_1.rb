@@ -18,3 +18,7 @@ is_large = false
 #variables assigned to arrays
 dog_sitters = ["Amy", "Sinead", "Sally", "Andrew"]
 treats = ["bully stick", "bone", "ice cube", "chicken", "pup cup"]
+
+#variables assigned to hashes
+units = { "weights" => ["pound", "kilogram"], "lengths" => ["inches", "feet", "mile"] }
+dictionary = { "one" => "uno", "two" => "dos", "three" => "tres" }
